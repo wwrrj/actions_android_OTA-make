@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  OLD_ROM_URL: https://hugeota.d.miui.com/20.7.30/miui_RAPHAEL_20.7.30_2061f26e97_10.0.zip
-  NEW_ROM_URL: https://hugeota.d.miui.com/20.8.4/miui_RAPHAEL_20.8.4_22b148a8c9_10.0.zip
+  OLD_ROM_URL: https://cloud189-liaoning-person.oos-lnsy.ctyunapi.cn/PERSONCLOUD/9bc31144-7221-42ab-8c8f-62cacece6551.zip?x-amz-CLIENTTYPEIN=UNKNOWN&AWSAccessKeyId=532482dfdc85e5d60592&x-amz-UID=500119206&x-amz-APPID=828221&response-content-disposition=attachment%3Bfilename%3D%22Mz16sPro_MIUI_Q_20.11.22_Donated.zip%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&x-amz-limit=rate%3D10240%2Cconcurrency%3D20&Signature=B5SeT82Zjjd9M7Z4wH5%2BxFQ0cmE%3D&x-amz-SHID=169945421&Expires=1607108403&x-amz-FSIZE=2566803589&x-amz-UFID=71351112139626423
+  NEW_ROM_URL: https://cloud189-liaoning-person.oos-lnsy.ctyunapi.cn/PERSONCLOUD/c548112b-eb24-4ce6-a885-39636dc6edc2.zip?x-amz-CLIENTTYPEIN=UNKNOWN&AWSAccessKeyId=532482dfdc85e5d60592&x-amz-UID=500119206&x-amz-APPID=828221&response-content-disposition=attachment%3Bfilename%3D%22Mz16sPro_MIUI_Q_20.11.25_MeizuCamera_Donated.zip%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&x-amz-limit=rate%3D10240%2Cconcurrency%3D20&Signature=zCOz0w5e3M2ZYWbvAWVTsIxMTVg%3D&x-amz-SHID=169945421&Expires=1607109825&x-amz-FSIZE=2759325324&x-amz-UFID=21423112185203087
   TZ: Asia/Shanghai
 
 jobs:
